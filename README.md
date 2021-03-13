@@ -1,10 +1,15 @@
-# mysite
-一个教育直播平台，支持视频直播、白板演示、代码编辑、PPT播放、聊天等功能
+# 教育直播平台
 
-前端文档见Group3\frontend\out\index.html
++ 一个教育直播平台，支持视频直播、白板演示、代码编辑、PPT播放、聊天等功能
 
-后端文档见Group3\doc\_build\html\index.html
++ 前端文档见Group3\frontend\out\index.html
 
-部署文档见wiki中Deploy页
++ 后端文档见Group3\doc\_build\html\index.html
 
-功能性测试文档见wiki中Fuction_test02(最终版)
++ 主要框架为：
+	+ 前端框架：Vue
+	+ 后端框架：Django
+	+ 数据库：MySQL
+	+ 其他： Vuex, Redis等等
+
+	
